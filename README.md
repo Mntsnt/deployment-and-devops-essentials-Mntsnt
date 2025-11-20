@@ -4,8 +4,8 @@
 This project is a MERN stack application deployed to production with CI/CD pipelines and monitoring.
 
 ## URLs
-- Frontend: [https://your-frontend-url]([https://your-frontend-url](https://deployment-and-devops-essentials-mn.vercel.app/))
-- Backend: [https://your-backend-url/api]([https://your-backend-url/api](https://deployment-and-devops-essentials-mntsnt.onrender.com/))
+- Frontend: [[https://your-frontend-url](https://deployment-and-devops-essentials-mn.vercel.app/)]([https://your-frontend-url](https://deployment-and-devops-essentials-mn.vercel.app/))
+- Backend: [[https://your-backend-url/api](https://deployment-and-devops-essentials-mntsnt.onrender.com/)]([https://your-backend-url/api](https://deployment-and-devops-essentials-mntsnt.onrender.com/))
 
 ## Setup Instructions
 
